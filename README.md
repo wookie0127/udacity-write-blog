@@ -4,7 +4,7 @@
   This is the project of [Udacity's data scientist nanodegree program](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
   Through this project, analysis data with **CRISP-DM** process would be familiar. In conclusion, we can use **CRISP-DM** to handle data in our task
   
-  - **CRISP-DM (Cross-Industry Standard Process for Data Mining)
+  - **CRISP-DM (Cross-Industry Standard Process for Data Mining)**
     - Business Understanding
     - Data Understanding
     - Data wrangle and clean
